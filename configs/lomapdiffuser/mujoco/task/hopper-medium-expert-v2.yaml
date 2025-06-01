@@ -1,0 +1,8 @@
+env_name: "hopper-medium-expert-v2"
+dim_mult: [1, 2, 2, 2]
+w_cg: 0.0001
+horizon: 32
+s_weight: 1.
+proj_range: [0.2, 0.3]
+n_manifold_samples: 10
+action_dim_weight: 1.0

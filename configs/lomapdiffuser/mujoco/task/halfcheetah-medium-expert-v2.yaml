@@ -1,0 +1,8 @@
+env_name: "halfcheetah-medium-expert-v2"
+dim_mult: [1, 4, 2]
+w_cg: 0.01
+horizon: 4
+s_weight: 1.
+proj_range: [0.2, 0.7]
+n_manifold_samples: 10
+action_dim_weight: 0.0

@@ -1,0 +1,7 @@
+env_name: "antmaze-large-play-v2"
+dim_mult: [1, 4, 2] 
+model_dim: 32 
+w_cg: 3.0
+s_weight: 10.
+proj_range: [0.1, 0.2]
+n_manifold_samples: 10

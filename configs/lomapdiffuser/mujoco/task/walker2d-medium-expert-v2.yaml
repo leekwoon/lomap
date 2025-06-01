@@ -1,0 +1,8 @@
+env_name: "walker2d-medium-expert-v2"
+dim_mult: [1, 2, 2, 2]
+w_cg: 0.0001
+horizon: 32
+s_weight: 1.
+proj_range: [0.4, 0.9]
+n_manifold_samples: 10
+action_dim_weight: 0.0

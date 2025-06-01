@@ -1,0 +1,23 @@
+# === maze2d ===
+env_name: "maze2d-umaze-v1"
+dim_mult: [1, 4, 2]
+w_cg: 0.0
+horizon: 128
+sg_weight: 100.
+proj_range: [0.3, 0.8]
+n_manifold_samples: 10
+use_proj_mask: 0
+proj_mask_threshold: 0.5
+action_dim_weight: 0.0
+
+# === multi2d ===
+# env_name: "maze2d-umaze-v1"
+# dim_mult: [1, 4, 2]
+# w_cg: 0.0
+# horizon: 128
+# sg_weight: 100.
+# proj_range: [0.2, 0.7]
+# n_manifold_samples: 10
+# use_proj_mask: 0
+# proj_mask_threshold: 0.5
+# action_dim_weight: 1.0

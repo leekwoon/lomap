@@ -1,0 +1,8 @@
+# fixed
+env_name: "antmaze-medium-diverse-v2"
+dim_mult: [1, 4, 2] 
+model_dim: 32 
+w_cg: 5.0
+s_weight: 10.
+proj_range: [0.1, 0.25]
+n_manifold_samples: 10
