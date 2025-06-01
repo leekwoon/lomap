@@ -22,7 +22,7 @@ pip install -e .
 
 ## Training & Inference
 
-Below is an example of how to train and evaluate **LoMAP-incorporated Hierarchical Diffuser** (HD) on AntMaze tasks:
+Below is an example of how to train and evaluate LoMAP-incorporated Hierarchical Diffuser (HD) on AntMaze tasks:
 
 ```bash
 # Step 1: Train the diffusion model
