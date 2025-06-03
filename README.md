@@ -4,9 +4,9 @@
     <img src="assets/main.png"/ width=90%>
 </p>
 
-This repository provides the source codes for our paper [Local Manifold Approximation and Projection for Manifold-Aware Diffusion Planning]() in ICML 2025.
+This repository provides the source codes for our paper [Local Manifold Approximation and Projection for Manifold-Aware Diffusion Planning](https://arxiv.org/abs/2506.00867) in ICML 2025.
 
-**Update (June 1, 2025):** We released a [SCoTS (State-Covering Trajectory Stitching)](https://github.com/leekwoon/scots), a trajectory augmentation framework for diffusion planners that systematically extends trajectory coverage and significantly improves long-horizon planning capabilities on the [OGBench](https://github.com/seohongpark/ogbench) stitching benchmarks. We highly recommend using SCoTS when working with offline datasets containing short, fragmented trajectories that require stitching for long-horizon tasks.
+**Update (June 1, 2025):** We released a [SCoTS (State-Covering Trajectory Stitching)](https://github.com/leekwoon/scots), a trajectory augmentation method for diffusion planners that systematically extends trajectory coverage and significantly improves long-horizon planning capabilities on the [OGBench](https://github.com/seohongpark/ogbench) stitching benchmarks. We highly recommend using SCoTS when working with offline datasets containing short, fragmented trajectories that require stitching for long-horizon tasks.
 
 ## Setup
 We recommend using Python 3.9 with conda:
