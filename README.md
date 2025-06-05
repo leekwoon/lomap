@@ -44,7 +44,7 @@ This repository is extended from [diffuser](https://github.com/jannerm/diffuser)
 If you find our work useful in your research, please consider citing:
 ```bibtex
 @inproceedings{lee2025local,
-  title={Variational Curriculum Reinforcement Learning for Unsupervised Discovery of Skills},
+  title={Local Manifold Approximation and Projection for Manifold-Aware Diffusion Planning},
   author={Lee, Kyowoon and Choi, Jaesik},
   booktitle={International Conference on Machine Learning},
   year={2025},
